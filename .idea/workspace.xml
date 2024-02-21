@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fae51078-e3e7-41bc-9ced-f97b369afeef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalculadoraPeso.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConversorRealParaPesoArgentino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +58,8 @@
       <workItem from="1707098497262" duration="882000" />
       <workItem from="1708389437107" duration="670000" />
       <workItem from="1708471287455" duration="457000" />
+      <workItem from="1708472591960" duration="241000" />
+      <workItem from="1708530080441" duration="195000" />
     </task>
     <servers />
   </component>
